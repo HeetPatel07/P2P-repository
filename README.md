@@ -3,7 +3,7 @@
 
 # README - P2P File Sharing System  
 
-## **Assignment Overview**
+## **Overview**
 This system implements a Peer-to-Peer (P2P) File Sharing network, where each peer maintains metadata about the files it shares and tracks other peers in the network. It supports operations like listing files, uploading, downloading, and deleting files, while also utilizing a gossip protocol for peer synchronization.
 
 ### **Key Features**  
