@@ -117,10 +117,4 @@ The metadata is updated based on `GOSSIP_REPLY` and `ANNOUNCE` messages received
 Inactive or unresponsive peers are automatically cleaned up after not being heard from for a minute.
 
 ---
-
-## **Hand-in Instructions**  
-1. Include all your source code, along with this README file.
-2. Provide the name of the file and line number where metadata synchronization occurs.
-3. Specify the file and line number for the peer cleanup logic.
-
 ---
