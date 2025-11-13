@@ -1,0 +1,280 @@
+{
+    "602c86cb810c29d0a962cf252825c252a05bf4de5ec6d3ce825b240465ae138c": {
+        "file_name": "UMAIeventPoster.png",
+        "file_size": 123.0,
+        "file_id": "602c86cb810c29d0a962cf252825c252a05bf4de5ec6d3ce825b240465ae138c",
+        "file_owner": "prokopie",
+        "file_timestamp": 1744169352.0,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "ce437c6d51e242d02fba283e8d4d1252782af5d08984b3efe17926edc5a14700": {
+        "file_name": "test.png",
+        "file_size": 1.7906866073608398,
+        "file_id": "ce437c6d51e242d02fba283e8d4d1252782af5d08984b3efe17926edc5a14700",
+        "file_owner": "patelhs",
+        "file_timestamp": 1744170562,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "3af4dd84e2189618d73964d27a0a297ea9564a236934db8901e6e812afc5651a": {
+        "file_name": "testfile.txt",
+        "file_size": 2.8e-05,
+        "file_id": "3af4dd84e2189618d73964d27a0a297ea9564a236934db8901e6e812afc5651a",
+        "file_owner": "3af4dd84e2189618d73964d27a0a297ea9564a236934db8901e6e812afc5651a",
+        "file_timestamp": 1743970142.6140459,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "b201ac6b24ac5ea48d9c7e57cc0307d8e294420886733ff56dc4375ef95bc9ad": {
+        "file_name": "test.txt",
+        "file_size": 1.239776611328125e-05,
+        "file_id": "b201ac6b24ac5ea48d9c7e57cc0307d8e294420886733ff56dc4375ef95bc9ad",
+        "file_owner": "b201ac6b24ac5ea48d9c7e57cc0307d8e294420886733ff56dc4375ef95bc9ad",
+        "file_timestamp": 1744007783.0,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "8793adf34e106d5b5e3b8a55262f5310caefe61441b99c06179f5cebf00228df": {
+        "file_name": "KrabbyPattySecretFormula.txt",
+        "file_size": 4.673004150390625e-05,
+        "file_id": "8793adf34e106d5b5e3b8a55262f5310caefe61441b99c06179f5cebf00228df",
+        "file_owner": "nguye89",
+        "file_timestamp": 1744057384.0,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "5acda21a06bd0dd3494f9404815b8f81fbe1373238a044be783e2d499e97499c": {
+        "file_name": "sonne.txt",
+        "file_size": 123.0,
+        "file_id": "5acda21a06bd0dd3494f9404815b8f81fbe1373238a044be783e2d499e97499c",
+        "file_owner": "5acda21a06bd0dd3494f9404815b8f81fbe1373238a044be783e2d499e97499c",
+        "file_timestamp": 1744168730.0,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "Sample"
+        ]
+    },
+    "1c1c51947e6c3c914b4e6176d8564fc3b2c9e857053c101ca4c2fc9722e11e72": {
+        "file_id": "1c1c51947e6c3c914b4e6176d8564fc3b2c9e857053c101ca4c2fc9722e11e72",
+        "file_name": "EldenRing.txt",
+        "file_owner": "Starscourge Radahn",
+        "file_timestamp": 1750034796.9022326,
+        "file_size": 922,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe",
+            "Eagle",
+            "Hawk"
+        ]
+    },
+    "7fdc48ab9987175ec43ddb7cb431fb56413a4daad8cb9b173aa30419f32be5d0": {
+        "file_id": "7fdc48ab9987175ec43ddb7cb431fb56413a4daad8cb9b173aa30419f32be5d0",
+        "file_name": "EldenRing.txt",
+        "file_owner": "Starscourge Radahn",
+        "file_timestamp": 1750035094.4946399,
+        "file_size": 922,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Eagle",
+            "Hawk"
+        ]
+    },
+    "9ae9c20e3e6066e2cce37d7639810a0d9268a5ee117bfcf28ef99ed576f327fe": {
+        "file_id": "9ae9c20e3e6066e2cce37d7639810a0d9268a5ee117bfcf28ef99ed576f327fe",
+        "file_name": "names.txt",
+        "file_owner": "shahs8",
+        "file_timestamp": 1750028734.0,
+        "file_size": 0.0014142990112304688,
+        "has_copy": "yes",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe",
+            "Eagle",
+            "Hawk"
+        ]
+    },
+    "781514656fbfd44dc60b31c435044c19aa77edafc7e9ba5322bd8161290a2671": {
+        "file_name": "JTEST.txt",
+        "file_size": 0.17,
+        "file_id": "781514656fbfd44dc60b31c435044c19aa77edafc7e9ba5322bd8161290a2671",
+        "file_owner": "sarkariaj3",
+        "file_timestamp": 1750038472,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe",
+            "Eagle",
+            "Hawk"
+        ]
+    },
+    "969a3f8e853c4d3c9f9547fdcff5b8319b04e193c2e9b8a087675a2c1c631c36": {
+        "file_name": "geet.txt",
+        "file_size": 0.05078125,
+        "file_id": "969a3f8e853c4d3c9f9547fdcff5b8319b04e193c2e9b8a087675a2c1c631c36",
+        "file_owner": "loombag",
+        "file_timestamp": 1750046180,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Eagle"
+        ]
+    },
+    "cfdf68c49eafbdb0a67fcbc68285a5dbe04f66e84a953c01ec77301c37d4e033": {
+        "file_name": "EldenRing.txt",
+        "file_size": 0.0009,
+        "file_id": "cfdf68c49eafbdb0a67fcbc68285a5dbe04f66e84a953c01ec77301c37d4e033",
+        "file_owner": "7951705",
+        "file_timestamp": 1750057961.8477964,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Eagle"
+        ]
+    },
+    "7c9728bfb186421d00d67b7830cd88d4f59abe1462119a63238366cebd2b5328": {
+        "file_name": "po.txt",
+        "file_size": 7,
+        "file_id": "7c9728bfb186421d00d67b7830cd88d4f59abe1462119a63238366cebd2b5328",
+        "file_owner": "resilient99",
+        "file_timestamp": 1750058968,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Eagle"
+        ]
+    },
+    "aed65be932bb69dee3d0059b42cf2e38891f4b35be6162e89579d920f5fb514a": {
+        "file_name": "gpt.pdf",
+        "file_size": 5.4235734939575195,
+        "file_id": "aed65be932bb69dee3d0059b42cf2e38891f4b35be6162e89579d920f5fb514a",
+        "file_owner": "PROF",
+        "file_timestamp": 1749713853,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe",
+            "Hawk"
+        ]
+    },
+    "8baee7a92288d4c369cdb2c0cb63611881b23dc75677e6b78cb053e0fbce0295": {
+        "file_name": "JTEST.txt",
+        "file_size": 0.17,
+        "file_id": "8baee7a92288d4c369cdb2c0cb63611881b23dc75677e6b78cb053e0fbce0295",
+        "file_owner": "sarkariaj3",
+        "file_timestamp": 1750032852,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Hawk"
+        ]
+    },
+    "4b866410a37f1b26cfafe03cff8ff21082402434b9c40d0216722effdfaf3788": {
+        "file_name": "JTEST.txt",
+        "file_size": 0.17,
+        "file_id": "4b866410a37f1b26cfafe03cff8ff21082402434b9c40d0216722effdfaf3788",
+        "file_owner": "sarkariaj3",
+        "file_timestamp": 1750038331,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe",
+            "Hawk"
+        ]
+    },
+    "477182823f9d5d51587946a9d51431003014bb53169329ac50f39a194521aaf3": {
+        "file_name": "bitcoin.pdf",
+        "file_size": 0.17575454711914062,
+        "file_id": "477182823f9d5d51587946a9d51431003014bb53169329ac50f39a194521aaf3",
+        "file_owner": "PROF",
+        "file_timestamp": 1749713822,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Hawk"
+        ]
+    },
+    "ec51d2db09c604ea76a5891229095f9ecb258ad18a48ff657161ec95b6b82b58": {
+        "file_name": "names.txt",
+        "file_size": 0.0014142990112304688,
+        "file_id": "ec51d2db09c604ea76a5891229095f9ecb258ad18a48ff657161ec95b6b82b58",
+        "file_owner": "PROF",
+        "file_timestamp": 1749713836,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Hawk"
+        ]
+    },
+    "878922bd2acc68686dc3a18e98d1bac3bd463a7dc39376074bb65c7e2868babb": {
+        "file_name": "EldenRing.txt",
+        "file_size": 0.0009,
+        "file_id": "878922bd2acc68686dc3a18e98d1bac3bd463a7dc39376074bb65c7e2868babb",
+        "file_owner": "Starscourge Radahn",
+        "file_timestamp": 1750040365.5495598,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Grebe"
+        ]
+    },
+    "74d2a9b49935d3a9f9356e2ffe439abcf3e2849fd284e68b6c5fdb79b03f7df0": {
+        "file_name": "A_Hi.txt",
+        "file_size": 28,
+        "file_id": "74d2a9b49935d3a9f9356e2ffe439abcf3e2849fd284e68b6c5fdb79b03f7df0",
+        "file_owner": "TEST8!!!",
+        "file_timestamp": "Sun Jun 15 21:36:41 2025",
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon",
+            "Hawk"
+        ]
+    },
+    "9791e2902c351254161e6951033ff1654806c192951331fb05be841bd2e35ca2": {
+        "file_name": "try10.txt",
+        "file_size": 5,
+        "file_id": "9791e2902c351254161e6951033ff1654806c192951331fb05be841bd2e35ca2",
+        "file_owner": "deer",
+        "file_timestamp": 1750042934.2170455,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon"
+        ]
+    },
+    "2d058d36797192c6500229d2e6a21a18c8cb896f3c702fe18f212498f7de8155": {
+        "file_name": "bisec_2.png",
+        "file_size": 9495,
+        "file_id": "2d058d36797192c6500229d2e6a21a18c8cb896f3c702fe18f212498f7de8155",
+        "file_owner": "stay21231",
+        "file_timestamp": 1750045460.3848388,
+        "has_copy": "no",
+        "peers_with_file": [
+            "nanday",
+            "Silicon"
+        ]
+    }
+}
